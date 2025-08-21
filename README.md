@@ -6,7 +6,3 @@ This project is a small UI component library built using **React**, **TypeScript
 -`InputField`: A reusable input component with validation, helper text, sizes, and variants.
 - `DataTable`: A table component with sorting, row selection, empty/loading state handling, and accessibility support.
 
-
-
-
-# react-ui-assignment
