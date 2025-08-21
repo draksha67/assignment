@@ -1,5 +1,5 @@
-import { InputField } from './components/InputField/InputField';
-import { DataTable } from './components/DataTable/DataTable';
+import { InputField } from './components/InputField/InputField.tsx';
+import { DataTable } from './components/DataTable/DataTable.tsx';
 import { useState } from 'react';
 
 function App() {
